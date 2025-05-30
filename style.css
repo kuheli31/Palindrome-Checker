@@ -1,0 +1,19 @@
+#inputText {
+  width: 300px;
+  height: 50px;
+  font-size: 26px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#check{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+#content {
+  margin-top: 20px;
+  font-size: 24px;
+}
